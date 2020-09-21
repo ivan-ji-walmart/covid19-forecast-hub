@@ -8,7 +8,7 @@ website_url: https://github.com/ivan-ji-walmart/covid19-forecast-hub
 license: cc-by-4.0
 team_model_designation: primary
 methods: (US/State) Ensembing of prophet logstic model and extended Kalman filter forecasting model. The logistic growth prophet forecasting model 
-fit using case counts and deaths as features. The extended Kalman filter fit with time series Death data using a two-step process of prediction 
+fit using case counts and deaths as features. The extended Kalman filter fit with time series data using a two-step process of prediction 
 and correction under some conditions can ensure that we can have a self-correcting forecastings.
 team_funding: Walmart
 data_inputs: JHU CSSE confirmed case counts and deaths
